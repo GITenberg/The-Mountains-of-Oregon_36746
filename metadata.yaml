@@ -1,0 +1,35 @@
+_repo: The-Mountains-of-Oregon_36746
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 36746-h/images/frontcover.jpg
+creator:
+  author:
+    agent_name: Steel, W. G. (William Gladstone)
+    aliases:
+    - Steel, William Gladstone
+    - Steel, Will G. (William Gladstone)
+    birthdate: 1854
+    deathdate: 1934
+    gutenberg_agent_id: '38451'
+    url: http://www.gutenberg.org/2009/agents/38451
+    wikipedia: http://en.wikipedia.org/wiki/William_Gladstone_Steel
+description: ''
+gutenberg_bookshelf: Travel
+gutenberg_issued: '2011-07-16'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '36746'
+  lccn: rc01000358
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Oregon Alpine Club'
+- !lcsh 'Mountains -- Oregon'
+- !lcsh 'Oregon -- Description and travel'
+- !lcsh 'Oregon -- Bibliography'
+- !lcc 'F850.5'
+title: The Mountains of Oregon
+url: http://www.gutenberg.org/ebooks/36746
