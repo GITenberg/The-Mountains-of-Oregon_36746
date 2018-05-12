@@ -15,6 +15,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/38451
     wikipedia: http://en.wikipedia.org/wiki/William_Gladstone_Steel
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/36746#The-Mountains-of-Oregon
 gutenberg_bookshelf: Travel
 gutenberg_issued: '2011-07-16'
 gutenberg_type: Text
